@@ -1,13 +1,11 @@
-import Swift
- 
-class CoolClass
-{
-    // Хочу ще один коментар
-    func coolFunc()
-    {
-        print("London is the capital somewhere")
-    }
-}
+// Derived class
+class Car: public Vehicle {
+/* long
+comment */
+  public:
+    string model = "Mustang";
+};
+
 
 
 
