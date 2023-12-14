@@ -1,0 +1,16 @@
+import Swift
+ 
+class CoolClass
+{
+    // Хочу ще один коментар
+    func coolFunc()
+    {
+        print("London is the capital somewhere")
+    }
+}
+
+
+
+
+
+

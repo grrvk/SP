@@ -1,0 +1,13 @@
+Alphabet_size: 6
+States_size: 4
+Start_state: 0
+Final_states: 1 3
+Transitions:
+0 a 1
+1 b 2
+2 c 3
+0 x 1
+1 y 2
+2 z 3
+
+

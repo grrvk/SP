@@ -1,0 +1,6 @@
+E - i+D | (E*R) | $
+D - V*E | L!E
+R - V!E|L*E
+V - Z | num
+L - Z | (E)
+Z - $
